@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/265/trunk/scripts
+END
+getip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/265/trunk/scripts/getip.sh
+END
+hostsgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/265/trunk/scripts/hostsgen.sh
+END
+check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/265/trunk/scripts/check.sh
+END
+dnsmasqconfgen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/260/trunk/scripts/dnsmasqconfgen.sh
+END
+cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/260/trunk/scripts/cleanup.sh
+END
